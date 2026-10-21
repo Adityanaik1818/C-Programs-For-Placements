@@ -1,50 +1,50 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM BARE-METAL HERO SECTION: VANTABLACK & PHOSPHOR GREEN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=380&section=header&text=C%20%20❖%20%20M%20E%20T%20A%20L&fontSize=72&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20SYSTEMS%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM NEBULA HERO SECTION: DEEP SPACE NAVY & ELECTRIC AQUA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040914,100:00F0FF&height=380&section=header&text=C%20%20❖%20%20E%20X%20E%20C%20U%20T%20I%20O%20N&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (SHARE TECH MONO) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access+Granted...;►+Master+100+Systems-Level+C+Programs;►+Dominate+Pointers,+Memory,+%26+Kernel+Calls;►+Compile.+Execute.+Dominate.&center=true&width=800&height=70&color=00FF41&vCenter=true&size=22&font=Share+Tech+Mono&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (FIRA CODE) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initializing+Tier-1+Interview+Protocols...;►+Master+100+High-Probability+C+Programs;►+Dominate+Pointers,+Memory,+%26+System+Calls;►+Bypass+HR+Filters.+Secure+Your+Future.&center=true&width=800&height=70&color=00F0FF&vCenter=true&size=22&font=Fira+Code&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-ProDeveloperTutorial-000000?style=for-the-badge&logo=c&logoColor=00FF41" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-100_Master_Programs-000000?style=for-the-badge&logo=codeigniter&logoColor=00FF41" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-000000?style=for-the-badge&logo=target&logoColor=00FF41" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00FF41?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-ProDeveloperTutorial-040914?style=for-the-badge&logo=c&logoColor=00F0FF" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-100_Master_Programs-040914?style=for-the-badge&logo=codeigniter&logoColor=00F0FF" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-040914?style=for-the-badge&logo=target&logoColor=00F0FF" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00F0FF?style=for-the-badge&logo=rocket&logoColor=040914" alt="Status">
 </p>
 
 <br>
 
 <a href="./100%20c%20progms%20for%20placements.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=powershell&logoColor=00FF41" alt="Read 100 c progms for placements.pdf" width="650">
+  <img src="https://img.shields.io/badge/▨_ACCESS_THE_MASTER_CODEX-DOWNLOAD_PDF_PAYLOAD-040914?style=for-the-badge&logo=adobeacrobatreader&logoColor=00F0FF" alt="Read 100 c progms for placements.pdf" width="650">
 </a>
 
 <br><br>
 
-> ⚠️ **KERNEL DIRECTIVE:** *Superficial syntax knowledge is a fatal flaw in systems-level technical interviews. This repository houses a tactical, highly-curated codex of 100 C programming interview questions designed to stress-test your proximity to the metal[cite: 12]. From dynamic memory manipulation (`malloc`/`free`)[cite: 87, 88] to low-level process control (`fork`/`pipe`)[cite: 57, 59], this payload guarantees absolute readiness for elite engineering placements.*
+> 🛡️ **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of 100 C programming interview questions designed to stress-test your proximity to the metal[cite: 12]. From dynamic memory manipulation (`malloc`/`free`)[cite: 87, 88] to low-level process control (`fork`/`pipe`)[cite: 57, 59], this payload guarantees absolute readiness for elite engineering placements.*
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000000?style=flat-square&logoColor=00FF41" alt="Divider">
+  <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰-040914?style=flat-square&logoColor=00F0FF" alt="Divider">
 </p>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 &nbsp; 𝗠 𝗔 𝗧 𝗥 𝗜 𝗫 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 𝗖 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
 
-<p align="center"><i>A high-density, interactive breakdown of the computational domains. Click to expand modules.</i></p>
+<p align="center"><i>A high-density architectural breakdown of the computational ecosystem. Click to expand modules.</i></p>
 
 <br>
 
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00FF41/c-programming.png" width="24"/> <kbd>MOD-01</kbd> CORE LOGIC & MATHEMATICS</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00F0FF/c-programming.png" width="24"/> <kbd>MOD-01</kbd> CORE LOGIC & MATHEMATICS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00FF41/memory-slot.png" width="24"/> <kbd>MOD-02</kbd> MEMORY, POINTERS & STRUCTURES</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00F0FF/memory-slot.png" width="24"/> <kbd>MOD-02</kbd> MEMORY, POINTERS & STRUCTURES</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -78,8 +78,8 @@
       </td>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Data Structures:</b> Struct declarations, nested structures, and passing structures to functions[cite: 99, 100, 102].</li>
-          <li><b>Advanced Types:</b> Union memory sharing, structure pointers, and defining custom `typedef` models[cite: 92, 101, 103].</li>
+          <li><b>Data Structures:</b> Struct declarations, nested structures, and passing structures to functions.</li>
+          <li><b>Advanced Types:</b> Union memory sharing, structure pointers, and defining custom `typedef` models[cite: 92].</li>
         </ul>
       </td>
     </tr>
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00FF41/console.png" width="24"/> <kbd>MOD-03</kbd> SYSTEM CALLS & PROCESS CONTROL</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00F0FF/console.png" width="24"/> <kbd>MOD-03</kbd> SYSTEM CALLS & PROCESS CONTROL</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -110,14 +110,14 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00FF41/binary-file.png" width="24"/> <kbd>MOD-04</kbd> BITWISE LOGIC & FILE I/O</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00F0FF/binary-file.png" width="24"/> <kbd>MOD-04</kbd> BITWISE LOGIC & FILE I/O</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <ul>
           <li><b>Bitwise Operations:</b> Getting, setting, and toggling the Nth bit of an integer payload[cite: 51, 52, 53].</li>
-          <li><b>Binary Manipulation:</b> Bitwise left shift, complement, AND operations, and hardware bitfields[cite: 93, 95, 96, 105].</li>
+          <li><b>Binary Manipulation:</b> Bitwise left shift, complement, AND operations, and hardware bitfields[cite: 93].</li>
         </ul>
       </td>
       <td width="50%" valign="top">
@@ -136,7 +136,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000000?style=flat-square&logoColor=00FF41" alt="Divider">
+  <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰-040914?style=flat-square&logoColor=00F0FF" alt="Divider">
 </p>
 
 <br>
@@ -149,18 +149,18 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-000000?style=for-the-badge&logoColor=00FF41" /> 
-<img src="https://img.shields.io/badge/ROLE-Backend_Developer-000000?style=for-the-badge&logoColor=00FF41" /> 
-<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-000000?style=for-the-badge&logoColor=00FF41" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-000000?style=for-the-badge&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-040914?style=for-the-badge&logoColor=00F0FF" /> 
+<img src="https://img.shields.io/badge/ROLE-Backend_Developer-040914?style=for-the-badge&logoColor=00F0FF" /> 
+<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-040914?style=for-the-badge&logoColor=00F0FF" /><br><br>
+<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-040914?style=for-the-badge&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-040914?style=for-the-badge&logoColor=00F0FF" />
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000000?style=flat-square&logoColor=00FF41" alt="Divider">
+  <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰-040914?style=flat-square&logoColor=00F0FF" alt="Divider">
 </p>
 
 <br>
@@ -175,25 +175,25 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00FF41/vision.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00F0FF/vision.png" width="60"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Architecture</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00FF41/source-code.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00F0FF/source-code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Constraints</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00FF41/process.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00F0FF/process.png" width="60"/><br>
       <b>03. DEBUG</b><br>
       <code>Dry-Run Mentally</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00FF41/approval.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00F0FF/approval.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -210,7 +210,7 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:040914&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
