@@ -1,40 +1,40 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM NEURAL-FORGE HERO SECTION: VOID NAVY & ELECTRIC CYAN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,100:00F0FF&height=380&section=header&text=C%20%20❖%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20SYSTEMS%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM VANTABLACK & NEON MAGENTA HERO SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:FF007F&height=380&section=header&text=C%20%20❖%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20SYSTEMS%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (SHARE TECH MONO) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Systems+Protocols;►+Master+100+High-Probability+C+Programs;►+Dominate+Pointers,+Memory,+%26+System+Calls;►+Compile.+Execute.+Secure+Your+Placement.&center=true&width=800&height=70&color=00F0FF&vCenter=true&size=22&font=Share+Tech+Mono&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (FIRA CODE) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Systems+Protocols;►+Master+100+High-Probability+C+Programs;►+Dominate+Pointers,+Memory,+%26+System+Calls;►+Compile.+Execute.+Secure+Your+Placement.&center=true&width=800&height=70&color=FF007F&vCenter=true&size=22&font=Fira+Code&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-050B14?style=for-the-badge&logo=github&logoColor=00F0FF" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-100_Master_Programs-050B14?style=for-the-badge&logo=c&logoColor=00F0FF" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-050B14?style=for-the-badge&logo=target&logoColor=00F0FF" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00F0FF?style=for-the-badge&logo=rocket&logoColor=050B14" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-050505?style=for-the-badge&logo=github&logoColor=FF007F" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-100_Master_Programs-050505?style=for-the-badge&logo=c&logoColor=FF007F" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-050505?style=for-the-badge&logo=target&logoColor=FF007F" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FF007F?style=for-the-badge&logo=rocket&logoColor=050505" alt="Status">
 </p>
 
 <br>
 
 <a href="./100%20c%20progms%20for%20placements.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-050B14?style=for-the-badge&logo=adobeacrobatreader&logoColor=00F0FF" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-050505?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF007F" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> 💠 **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of 100 C programming interview questions designed to stress-test your proximity to the metal. From dynamic memory manipulation via `malloc` and `free`[cite: 76, 77] to low-level process control using `fork` and `pipe`[cite: 46, 48], this payload guarantees absolute readiness for elite engineering placements.*
+> 🩸 **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of 100 C programming interview questions designed to stress-test your proximity to the metal. From dynamic memory manipulation via `malloc` and `free`[cite: 76, 77] to low-level process control using `fork` and `pipe`[cite: 46, 48], this payload guarantees absolute readiness for elite engineering placements.*
 
 </div>
 
 <br>
 
-<!-- SLEEK ELECTRIC CYAN TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:050B14&height=2" width="100%"/>
+<!-- SLEEK NEON MAGENTA TO VOID DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,100:050505&height=2" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 𝗖 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 Ｃ 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
 
 <p align="center"><i>A high-density architectural breakdown of the computational ecosystem. Click to expand modules.</i></p>
 
@@ -43,9 +43,9 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00F0FF/math.png" width="24"/> <kbd>MOD-01</kbd> CORE LOGIC & MATHEMATICS</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF007F/math.png" width="24"/> <kbd>MOD-01</kbd> CORE LOGIC & MATHEMATICS</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="16">
+  <table width="100%" cellpadding="18">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -65,9 +65,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00F0FF/memory-slot.png" width="24"/> <kbd>MOD-02</kbd> MEMORY, POINTERS & STRUCTURES</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF007F/memory-slot.png" width="24"/> <kbd>MOD-02</kbd> MEMORY, POINTERS & STRUCTURES</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="16">
+  <table width="100%" cellpadding="18">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -87,9 +87,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00F0FF/console.png" width="24"/> <kbd>MOD-03</kbd> SYSTEM CALLS & PROCESS CONTROL</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF007F/console.png" width="24"/> <kbd>MOD-03</kbd> SYSTEM CALLS & PROCESS CONTROL</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="16">
+  <table width="100%" cellpadding="18">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -109,9 +109,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00F0FF/binary-file.png" width="24"/> <kbd>MOD-04</kbd> BITWISE LOGIC & FILE I/O</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF007F/binary-file.png" width="24"/> <kbd>MOD-04</kbd> BITWISE LOGIC & FILE I/O</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="16">
+  <table width="100%" cellpadding="18">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -134,8 +134,8 @@
 
 <br>
 
-<!-- SLEEK ELECTRIC CYAN TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,100:00F0FF&height=2" width="100%"/>
+<!-- SLEEK VOID TO NEON MAGENTA DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FF007F&height=2" width="100%"/>
 
 <br>
 
@@ -147,18 +147,18 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-050B14?style=for-the-badge&logoColor=00F0FF" /> 
-<img src="https://img.shields.io/badge/ROLE-Backend_Developer-050B14?style=for-the-badge&logoColor=00F0FF" /> 
-<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-050B14?style=for-the-badge&logoColor=00F0FF" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-050B14?style=for-the-badge&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-050B14?style=for-the-badge&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-050505?style=for-the-badge&logoColor=FF007F" /> 
+<img src="https://img.shields.io/badge/ROLE-Backend_Developer-050505?style=for-the-badge&logoColor=FF007F" /> 
+<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-050505?style=for-the-badge&logoColor=FF007F" /><br><br>
+<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-050505?style=for-the-badge&logoColor=FF007F" />
+<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-050505?style=for-the-badge&logoColor=FF007F" />
 
 </div>
 
 <br>
 
-<!-- SLEEK ELECTRIC CYAN TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:050B14&height=2" width="100%"/>
+<!-- SLEEK NEON MAGENTA TO VOID DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,100:050505&height=2" width="100%"/>
 
 <br>
 
@@ -168,29 +168,29 @@
 
 <br>
 
-<table align="center" width="100%" cellpadding="16">
+<table align="center" width="100%" cellpadding="18">
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/00F0FF/visible--v1.png" width="60"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FF007F/visible--v1.png" width="60"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Architecture</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/00F0FF/code.png" width="60"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FF007F/code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Constraints</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/00F0FF/bug.png" width="60"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FF007F/bug.png" width="60"/><br>
       <b>03. DEBUG</b><br>
       <code>Dry-Run Mentally</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/00F0FF/checked.png" width="60"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FF007F/checked.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -207,7 +207,7 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:050B14&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:050505&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
